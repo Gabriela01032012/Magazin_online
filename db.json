@@ -1,0 +1,111 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Gabrila",
+			"surname":"Botoseneanu",
+			"photo_url":"https://cdn.icon-icons.com/icons2/2955/PNG/512/person_fill_icon_185522.png",
+			"balance":1500
+		},
+		{
+			"id":2,
+			"name":"Ana",
+			"surname":"Surdu",
+			"photo_url":"https://cdn.icon-icons.com/icons2/2955/PNG/512/person_fill_icon_185522.png",
+			"balance":2000
+		},
+		{
+			"id":3,
+			"name":"Maria",
+			"surname":"Triboi",
+			"photo_url":"https://cdn.icon-icons.com/icons2/2955/PNG/512/person_fill_icon_185522.png",
+			"balance":1200
+		}
+	],
+
+	"prodicts":[
+		{
+          "id":1,
+          "name":"Lavanda",
+          "description":"lumanari parfumate",
+          "prince":240,
+          "author_id":1,
+          "photo_url":"https://wickmagic.com/wp-content/uploads/2024/03/How-to-Use-Scented-Candles-Wick-Magic.jpg"
+		},
+		{
+			"id":2,
+          "name":"Vanilie",
+          "description":"lumanari parfumate",
+          "prince":260,
+          "author_id":1,
+          "photo_url":"https://m.media-amazon.com/images/I/81riNN+dlBL.jpg"
+		},
+		{
+			"id":3,
+          "name":"Portocala",
+          "description":"lumanari parfumate",
+          "prince":280,
+          "author_id":1,
+          "photo_url":"https://candlefy.com/cdn/shop/products/orange-blossom-scented-candle-made-with-natural-coconut-wax-101249.jpg?v=1710035881&width=1214"
+		},
+		{
+			"id":4,
+          "name":"Ciocolata",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://img.lazcdn.com/g/ff/kf/Sd10fed1a3eab43098076d85b3ef2c2f9Y.jpg_720x720q80.jpg"
+		},
+		{
+			"id":5,
+          "name":"Sare de mare",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://5.imimg.com/data5/SELLER/Default/2023/5/311918296/IR/GK/CD/54957555/eug8z6fut1u-500x500.png"
+		},
+		{
+			"id":6,
+          "name":"Scortisoara",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://files.ekmcdn.com/2d5932/images/sandalwood-treasure-scented-candle-sandalwood-3855-p.jpg"
+		},
+		{
+			"id":7,
+          "name":"Cocos si Ananas",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://files.ekmcdn.com/2d5932/images/tropical-heat-scented-candle-pineapple-coconut-45-p.jpg?w=1000&h=1000&v=7C3A4C47-0591-4C3C-BC90-0DA9FCCA09D7",
+		},
+		{
+			"id":8,
+          "name":"Lamaie si Lime",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://files.ekmcdn.com/2d5932/images/citrus-grove-scented-candle-lemon-lime-5190-p.jpg?w=400&h=400&v=92E30B97-F66E-4393-9150-0C56333B6D73",
+		},
+		{
+			"id":9,
+          "name":"Alune",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://hamptonandastley.com/cdn/shop/files/new-luxury-scented-large-candle-235g-freshly-baked-cinnamon-and-almond-230860.jpg?v=1718805875&width=1445",
+
+		},
+		{
+			"id":10,
+          "name":"Rozmarin",
+          "description":"lumanari parfumate",
+          "prince":320,
+          "author_id":1,
+          "photo_url":"https://hamptonandastley.com/cdn/shop/files/luxury-scented-large-candle-235g-woodland-blossom-and-wild-fig-528459.jpg?v=1718805873&width=1600",
+
+		}
+	]
+}
+
